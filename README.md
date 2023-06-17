@@ -1,4 +1,3 @@
-# week1-codechallenge
  # Prerequisite
 1. Create a repository on your GitHub account.
 2. Use Javascript to wire down the solution.
@@ -6,6 +5,7 @@
 4. Submit the repository link for grading.
 5. Ensure your repository has a well written README.
 
+ 
 
 # Challenge 1: Student Grade Generator (Toy Problem)
 Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
@@ -25,7 +25,7 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
  
 # Solution2 program 
  Create speed.html and solution2.js.
- Create a button with an id in html file to ca  ll the function.
+ Create a button with an id in js file to call the function.
  Create a function speeddetector in the js file.
  create event listener on js file to call the function when id button is clicked .
 
@@ -38,15 +38,13 @@ https://www.aren.co.ke/payroll/taxrates.htmLinks to an external site.
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
 # Solution3 program
-
- Create salary.html and solution3.js.
- Create a button with an id in html file to ca ll the function.
- Create functions in the js.
+ Create salary.html and solution3.js
+ Create a button with an id in js file to call the function when clicked
  create event listener on js file to call the function when id button is clicked .
+ 
+ # Author
+ Wanjira Faith
 
-# Author
-Wanjira Faith
-
-# Project setup
-Git clone this project
-Review the codes by executing on browser
+ # Project set up
+ Git clone the project
+ Review the codes by executing on browser
