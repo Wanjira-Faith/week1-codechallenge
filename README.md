@@ -50,6 +50,3 @@ Wanjira Faith
 # Project setup
 Git clone this project
 Review the codes by executing on browser
-
-# License
-MIT
