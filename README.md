@@ -48,3 +48,6 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to a
  # Project set up
  Git clone the project
  Review the codes by executing on browser
+
+ # license
+ This project is licensed under the MIT
